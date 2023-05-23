@@ -26,6 +26,3 @@ python3 activity-detection-webcam.py
 
 ### Frontend
 Requires backend running on port 5000, just use index.html
-
-## Screenshot
-![screenshot](screenshot.png "screenshot")
